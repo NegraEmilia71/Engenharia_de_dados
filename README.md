@@ -1,5 +1,4 @@
-A partir da pesquisa nacional sobre TI com uso de Python e as bibliotecas e o SQL 
-para as etapas de ETL e visualização de dados, a saber foram:
+No curso PrograMaria usou dados da pesquisa nacional sobre TI para executar as etapas abaixo:
 ### Importações
 ### Uso da biblioteca Pandas
 ### Repetindo análise do excel
