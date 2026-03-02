@@ -5,7 +5,7 @@ No curso PrograMaria usou dados da pesquisa nacional sobre TI para executar as e
 ### Estatística Básica
 ### Valores faltantes
 ### Distribuição amostral e intervalo de confiança
-### Featuring Engeneering (Engenharia de Recursos)
+### Feature Engineering (Engenharia de Recursos)
 ### Correlação
 ### Conectando SQL com Pandas
 ### Visualização de Dados
